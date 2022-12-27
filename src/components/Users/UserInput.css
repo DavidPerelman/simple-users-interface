@@ -1,0 +1,16 @@
+.form {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  text-align: left;
+  margin-bottom: 5px;
+}

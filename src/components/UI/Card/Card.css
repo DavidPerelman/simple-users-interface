@@ -1,0 +1,12 @@
+.Card {
+  margin-top: 30px;
+  background-color: white;
+  width: 550px;
+  border-radius: 4px;
+}
+
+@media only screen and (max-width: 600px) {
+  .Card {
+    width: 350px;
+  }
+}
